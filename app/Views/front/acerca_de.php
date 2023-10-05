@@ -38,8 +38,7 @@
                       
                       <p> Con estas inversiones, el Aeropuerto Internacional Doctor Fernando Piragine Niveyro se posiciona como un importante hub aéreo para la región.  </p>
 
-                      <p> Texto de prueba para git.  </p>
-                      <p> HOLA MUNDO</p>
+                      <p>ESTO ES UNA PRUEBA DE GIT</p>
 
                     </p>
                  
